@@ -1,0 +1,109 @@
+* {
+    box-sizing: content-box;
+}
+
+body {
+    background: #e5e5e5;
+    margin: 0px;
+}
+
+header{
+    background-color:#1CD1B0;
+    height: 38px;
+    padding:10px 0px 10px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    font-size:18px;
+
+}
+
+h1{
+    background-color: #165275;
+    height: 101px;
+    margin:0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:40px;
+    padding: 66px 0px 0px 28px;
+    border: 1px;
+    box-shadow: 0px 10px 10px -6px #9e9e9e;
+}
+
+.cajageneral {
+    margin: 70px 100px 60px 100px;
+    text-align: center;
+
+}
+
+.caja{
+    width: 0px auto;
+    margin:0px auto;
+    display:inline-block;
+}
+
+.card {
+    font-family: Arial, Helvetica, sans-serif;
+    width:300px;
+    height:550px;
+    background-color: #f3f3f3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    background-repeat: no-repeat;
+    margin:5px;
+    border-radius: 4%;
+    
+}
+
+.batman {
+    background-image: url("../image/gotic-city.png");
+    
+}
+
+.corazon{
+    text-align: left;
+    padding-left: 10px;
+    padding-top: 10px;
+
+}
+
+.harly {
+    background-image: url("../image/harly-font.png");
+   
+}
+
+.profile {
+    margin:80px 90px 0px 90px;
+    text-align:center;
+    border-radius: 100%;
+}
+
+p{
+    margin:15px;
+}
+
+.link {
+    padding-top: 40px;
+
+}
+
+.enlace {
+    background-color: #00669F;
+    margin:103px 80px 103px 80px;
+    padding: 10px 40px;
+    color:white;
+    text-align: center;
+    font-size: 15px;
+
+}
+
+footer {
+    background-color: #00669F;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:left;
+    color: white;
+    padding:15px;
+
+}
+
+
+
+
+
